@@ -1,9 +1,9 @@
 detect node engines and js enviroments directly from your scripts
 # Install
 ```sh
-npm install @daxplrer/isnode
+npm install @cupglassdev/isnode
 # or
-npm install --save @daxplrer/isnode
+npm install --save @cupglassdev/isnode
 ```
 # Updates
 - The execution speed was optimized! From 5 seconds to 3.5 seconds 🎉
@@ -11,9 +11,7 @@ npm install --save @daxplrer/isnode
 
 ### detect if the node engine is v8
 ```js
-import isnode from '@daxplrer/isnode'
-// you can use require too
-// const isnode = require('@daxplrer/isnode')
+import isnode from '@cupglassdev/isnode'
 
 function isusingv8() {
 // check using the engine() function
@@ -28,7 +26,7 @@ console.log(isusingv8())
 
 ### detect if the js enviroment is in jxcore
 ```js
-import isnode from '@daxplrer/isnode'
+import isnode from '@cupglassdev/isnode'
 async function run(){
 if (await isnode.env()==='jx'){ 
   console.log('you are in jxcore')
