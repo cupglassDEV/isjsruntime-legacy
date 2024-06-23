@@ -1,3 +1,5 @@
+# THIS IS MESSY ASF, i will make big change for the factoring issues in here and starting to migrating to jsr
+
 detect node engines and js enviroments directly from your scripts
 # Install
 ```sh
