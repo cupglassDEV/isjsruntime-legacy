@@ -1,10 +1,10 @@
-check the [new repo](https://github.com/cupglass/isjsruntime) if youu want to use it </br>
+check the [new repo](https://github.com/cupglass/isjsruntime) if youu want to use it <br>
 it includes
 - jsr support
 - no deps required (or if you are in nodejs, you must install the typescript package)
 - natively using esm
 - no nested objects
-</hr>
+<hr>
 detect node engines and js enviroments directly from your scripts
 # Install
 ```sh
