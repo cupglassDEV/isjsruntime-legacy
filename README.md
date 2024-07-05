@@ -1,5 +1,5 @@
 check the [new repo](https://github.com/cupglass/isjsruntime) if youu want to use it <br>
-it includes
+which includes
 - jsr support
 - no deps required (or if you are in nodejs, you must install the typescript package)
 - natively using esm
