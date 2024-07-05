@@ -1,4 +1,4 @@
-check the [new repo](https://github.com/cupglass/isjsruntime) if you want to use it <br>
+check the [new repo](https://github.com/cupglassdev/isjsruntime) if you want to use it <br>
 which includes
 - jsr support
 - support deno, bun, and other runtime
@@ -45,4 +45,4 @@ if (await isnode.env()==='jx'){
 run()
 ```
 # Source code
- [github repo](https://github.com/daxplrer/isnode)
+ [github repo](https://github.com/cupglassdev/isjsruntime)
