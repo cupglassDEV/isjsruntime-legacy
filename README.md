@@ -4,7 +4,7 @@ it includes
 - no deps required (or if you are in nodejs, you must install the typescript package)
 - natively using esm
 - no nested objects
-
+</hr>
 detect node engines and js enviroments directly from your scripts
 # Install
 ```sh
