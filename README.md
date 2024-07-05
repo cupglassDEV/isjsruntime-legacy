@@ -2,7 +2,7 @@ check the [new repo](https://github.com/cupglass/isjsruntime) if you want to use
 which includes
 - jsr support
 - support deno, bun, and other runtime
-- no deps required (or if you are in nodejs, you must install the typescript package)
+- no dependecies required (or if you are in nodejs, you must install the typescript package)
 - natively using esm
 - no nested objects
 <hr>
